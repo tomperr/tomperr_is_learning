@@ -15,7 +15,7 @@ A DSS is comprised of an analytical models database that is fed with selected da
 
 Data Warehouse provides subject-oriented data that is integrated and consistent
 
-Data must be loaded must ve loaded from source systems into the data warehouse. To do so, they lust be cleansed, which is part of the loading process of a data mart.
+Data must be loaded from source systems into the data warehouse. To do so, they lust be cleansed, which is part of the loading process of a data mart.
 
 > A **data mart** is a subset of a data warehouse focused on a particular line of business, department, or subject area. Data marts make specific data available to a defined group of users, which allows those users to quickly access critical insights without wasting time searching through an entire data warehouse. For example, many companies may have a data mart that aligns with a specific department in the business, such as finance, sales, or marketing.
 > 
