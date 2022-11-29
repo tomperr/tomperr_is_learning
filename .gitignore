@@ -1,3 +1,9 @@
+# IDE
+.vscode/
+
+# Python
 .pyc
 .ipynb_checkpoints/
-.vscode/
+
+# The folder where I secretly keep stuff I can't upload on github for legal reasons 
+resources/
